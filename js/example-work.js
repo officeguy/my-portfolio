@@ -3,7 +3,6 @@ import React from 'react';
 class ExampleWork extends React.Component {
     render() {
         return (
-          <span>
             <section className="section section--alignCentered section--description">
               { this.props.work.map( (example, idx) => {
                   return (
@@ -13,8 +12,6 @@ class ExampleWork extends React.Component {
               }
     
             </section>
-    
-          </span>
         )
       }
     }
@@ -40,3 +37,4 @@ class ExampleWorkBubble extends React.Component {
     }
 }
 export default ExampleWork;
+export { ExampleWorkBubble };
