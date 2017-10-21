@@ -21,7 +21,9 @@
 */
 
 .background--skyBlue {
-  background-color: rgb(52, 152, 219);
+  /*background-color: rgb(172, 42, 53); 
+  */
+  background-color: turquoise;
 }
 
 .color--skyBlue {
@@ -29,7 +31,8 @@
 }
 
 .color--cloud {
-  color: rgb(236, 240, 241);
+  color: rgb(52, 152, 219);
+  
 }
 
 .color--grey {

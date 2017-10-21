@@ -4,7 +4,9 @@ import ExampleWork from './example-work';
 
 const myWork = [
     {
-        'title': "Work Example",
+        'title': "Make it say",
+        'href': "https://example.com",
+        'desc': "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet mauris viverra, iaculis velit eget, aliquet sapien. Proin id sodales mi. Proin commodo varius aliquam. Praesent in aliquet magna, vel fermentum magna. Duis lacinia est sit amet magna semper scelerisque. Nullam sollicitudin, lacus sit amet aliquam rutrum, arcu augue tincidunt elit, et tempus nisl nulla in ante. Integer ligula arcu, fermentum a ante at, efficitur ultricies lacus.",
         'image': {
             'desc': "example screenshot of a project involving code",
             'src': 'images/example1.png',
@@ -12,7 +14,9 @@ const myWork = [
         }
     },
     {
-        'title': "Portfolio Boilerplate",
+        'title': "Monkey Pants",
+        'href': "https://example.com",
+        'desc': "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet mauris viverra, iaculis velit eget, aliquet sapien. Proin id sodales mi. Proin commodo varius aliquam. Praesent in aliquet magna, vel fermentum magna. Duis lacinia est sit amet magna semper scelerisque. Nullam sollicitudin, lacus sit amet aliquam rutrum, arcu augue tincidunt elit, et tempus nisl nulla in ante. Integer ligula arcu, fermentum a ante at, efficitur ultricies lacus.",        
         'image': {
             'desc': "A Serverless Portfolio",
             'src': 'images/example2.png',
@@ -20,7 +24,9 @@ const myWork = [
         }
     },
     {
-        'title': "Work Example",
+        'title': "Eve the Cat",
+        'href': "https://example.com",
+        'desc': "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet mauris viverra, iaculis velit eget, aliquet sapien. Proin id sodales mi. Proin commodo varius aliquam. Praesent in aliquet magna, vel fermentum magna. Duis lacinia est sit amet magna semper scelerisque. Nullam sollicitudin, lacus sit amet aliquam rutrum, arcu augue tincidunt elit, et tempus nisl nulla in ante. Integer ligula arcu, fermentum a ante at, efficitur ultricies lacus.",        
         'image': {
             'desc': "example screenshot of a project involving cats",
             'src': 'images/example3.png',
